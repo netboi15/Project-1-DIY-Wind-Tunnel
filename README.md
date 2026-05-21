@@ -2,10 +2,10 @@
 An open-circuit, low-speed wind tunnel built for aerodynamic testing of small-scale models. This project documents the research, design decisions, build plan, and simulation tools for constructing a functional wind tunnel from scratch.
 Project Status
 Phase                  Status
-Research & Planning ✅ Complete
+Research & Planning   ✅ Complete
 3D Modeling / Mock-up ✅ Complete
-Sourcing Materials 🔲 Not Started
-Construction 🔲 Not Started
+Sourcing Materials    🔲 Not Started
+Construction          🔲 Not Started
 Testing & Calibration 🔲 Not Started
 Simulation Validation 🔲 Not Started
 
